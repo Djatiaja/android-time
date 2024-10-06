@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas Time Keeper</string>
+    <string-array name="repeat_array">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Mon to Friday</item>
+    </string-array>
+</resources>
